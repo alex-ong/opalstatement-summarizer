@@ -1,0 +1,343 @@
+1220 Thu
+02/02/17
+09:00 Kogarah to Arncliffe 5 Off-peak 3.38 1.02 -2.36
+1222 Thu
+02/02/17
+09:31 Wolli Creek to Carlton 5 Off-peak 0.00 0.00 0.00
+1224 Thu
+02/02/17
+10:41 Allawah to Central 5 Off-peak 0.58 0.00 -0.58
+1226 Thu
+02/02/17
+11:26 Central Station Stand C to
+Anzac Pde D opp UNSW
+5 3.50 2.00 -1.50
+1228 Thu
+02/02/17
+17:14 High St nr Gate 9 UNSW to
+Central Station Stand A
+6 3.50 0.00 -3.50
+1230 Thu
+02/02/17
+17:29 Central to Hurstville 6 4.20 2.00 -2.20
+1232 Fri
+03/02/17
+09:08 Allawah to Central 7 Off-peak 4.20 1.26 -2.94
+1234 Fri
+03/02/17
+09:49 Central Station Stand D to
+High St nr Wansey Rd
+7 3.50 2.00 -1.50
+1236 Fri
+03/02/17
+19:37 Anzac Pde near Barker St
+to Museum Station Stand D
+8 3.50 0.00 -3.50
+1238 Fri
+03/02/17
+20:01 Town Hall to Allawah 8 Off-peak 4.20 3.26 -0.94
+1240 Sat
+04/02/17
+18:07 Tap on reversal - Allawah 0.00 0.00 0.00
+1242 Sat
+04/02/17
+18:34 Allawah to Town Hall 9 Travel Reward 4.20 2.73 -1.47
+1244 Sat
+04/02/17
+20:33 Central to Allawah 10 Travel Reward 4.20 2.73 -1.47
+1246 Mon
+06/02/17
+08:19 Allawah to Central 1 4.20 0.00 -4.20
+1248 Mon
+06/02/17
+08:51 Tap on reversal - Central 0.00 0.00 0.00
+1250 Mon
+06/02/17
+08:55 Central Station Stand D to
+High St nr Wansey Rd
+1 3.50 2.00 -1.50
+1252 Mon
+06/02/17
+19:41 Anzac Pde near Barker St
+to Museum Station Stand D
+2 3.50 0.00 -3.50
+1254 Mon
+06/02/17
+20:00 Tap on reversal - Town Hall 0.00 0.00 0.00
+1256 Mon
+06/02/17
+20:11 Town Hall to Hurstville 2 Off-peak 4.20 3.26 -0.94
+1258 Mon
+06/02/17
+20:44 Hurstville to Allawah 2 Off-peak 0.00 0.00 0.00
+1260 Tue
+07/02/17
+08:59 Allawah to Central 3 Off-peak 4.20 1.26 -2.94
+1262 Tue
+07/02/17
+09:30 Tap on reversal - Central 0.00 0.00 0.00
+1264 Tue
+07/02/17
+09:36 Central Station Stand D to
+High St nr Wansey Rd
+3 3.50 2.00 -1.50
+1266 Tue
+07/02/17
+18:53 Anzac Pde near Barker St
+to Central Station Stand G
+4 3.50 0.00 -3.50
+1268 Tue
+07/02/17
+19:11 Central to Allawah 4 Off-peak 4.20 3.26 -0.94
+1270 Wed
+08/02/17
+08:58 Allawah to Central 5 4.20 0.00 -4.20
+1272 Wed
+08/02/17
+09:30 Tap on reversal - Central 0.00 0.00 0.00
+1274 Wed
+08/02/17
+09:41 Central Station Stand D to
+High St nr Wansey Rd
+5 3.50 2.00 -1.50
+1276 Wed
+08/02/17
+20:00 Anzac Pde near Barker St
+to Museum Station Stand D
+6 3.50 0.00 -3.50
+1278 Wed
+08/02/17
+20:21 Town Hall to Allawah 6 Off-peak 4.20 3.26 -0.94
+1280 Thu
+09/02/17
+08:51 Allawah to Central 7 4.20 0.00 -4.20
+1282 Thu
+09/02/17
+09:20 Tap on reversal - Central 0.00 0.00 0.00
+1284 Thu
+09/02/17
+09:25 Central Station Stand D to
+High St nr Wansey Rd
+7 3.50 2.00 -1.50
+1286 Thu
+09/02/17
+18:55 Anzac Pde near Barker St
+to Museum Station Stand D
+8 3.50 0.00 -3.50
+1288 Thu
+09/02/17
+19:20 Town Hall to Allawah 8 Off-peak 4.20 3.26 -0.94
+1289 Thu
+09/02/17
+19:53 Auto top up - Allawah 40.00
+1291 Fri
+10/02/17
+07:51 Allawah to Central 9 Travel Reward 4.20 2.10 -2.10
+1293 Fri
+10/02/17
+08:25 Central Station Stand D to
+High St nr Wansey Rd
+9 Travel Reward 3.50 2.75 -0.75
+1295 Fri
+10/02/17
+19:27 Anzac Pde near Barker St
+to Museum Station Stand D
+10 Travel Reward 3.50 1.75 -1.75
+1297 Fri
+10/02/17
+19:54 Tap on reversal - Town Hall 0.00 0.00 0.00
+1299 Fri
+10/02/17
+19:59 Town Hall to Allawah 10 Travel Reward 4.20 3.73 -0.47
+1301 Sat
+11/02/17
+14:38 Allawah to Kogarah 11 Travel Reward 3.38 2.20 -1.18
+1303 Sat
+11/02/17
+18:53 Museum Station Stand A to
+Belmore Rd opp Arthur St
+12 Travel Reward 3.50 1.75 -1.75
+1305 Sat
+11/02/17
+21:57 Perouse Rd nr Cuthill St to
+Central Station Stand H
+13 Travel Reward 3.50 1.75 -1.75
+1307 Sat
+11/02/17
+22:26 Central to Allawah 13 Travel Reward 4.20 3.73 -0.47
+1309 Mon
+13/02/17
+08:40 Allawah to Central 1 4.20 0.00 -4.20
+1311 Mon
+13/02/17
+09:14 Tap on reversal - Central 0.00 0.00 0.00
+1313 Mon
+13/02/17
+09:17 Central Station Stand D to
+High St nr Wansey Rd
+1 3.50 2.00 -1.50
+1315 Mon
+13/02/17
+20:45 Anzac Pde near Barker St
+to Museum Station Stand D
+2 3.50 0.00 -3.50
+1317 Mon
+13/02/17
+21:07 Tap on reversal - Town Hall 0.00 0.00 0.00
+1319 Mon
+13/02/17
+21:14 Town Hall to Allawah 2 Off-peak 4.20 3.26 -0.94
+1321 Tue
+14/02/17
+09:00 Allawah to Carlton 3 Off-peak 3.38 1.02 -2.36
+1323 Tue
+14/02/17
+09:44 Allawah to Central 3 Off-peak 0.58 0.00 -0.58
+1325 Tue
+14/02/17
+10:22 Tap on reversal - Central 0.00 0.00 0.00
+1327 Tue
+14/02/17
+10:27 Central Station Stand D to
+High St nr Wansey Rd
+3 3.50 2.00 -1.50
+1329 Tue
+14/02/17
+16:57 Unknown to Unknown 4 3.50 0.00 -3.50
+1331 Tue
+14/02/17
+17:16 Central to Hurstville 4 4.20 2.00 -2.20
+1333 Tue
+14/02/17
+17:49 Hurstville to Allawah 4 0.00 0.00 0.00
+1335 Wed
+15/02/17
+07:59 Kogarah to Arncliffe 5 3.38 0.00 -3.38
+1337 Wed
+15/02/17
+22:15 Wolli Creek to Hurstville 6 Off-peak 3.38 1.02 -2.36
+1339 Thu
+16/02/17
+08:41 Allawah to Arncliffe 7 3.38 0.00 -3.38
+1340 Thu
+16/02/17
+08:55 Auto top up - Arncliffe 40.00
+342 Thu
+16/02/17
+18:08 Anzac Pde near Barker St
+to Martin Place Stn Stand
+C
+8 3.50 0.00 -3.50
+1344 Thu
+16/02/17
+22:31 Martin Place to Allawah 9 Travel Reward 4.20 2.73 -1.47
+1346 Fri
+17/02/17
+08:49 Allawah to Central 10 Travel Reward 4.20 2.10 -2.10
+1348 Fri
+17/02/17
+09:24 Central Station Stand D to
+High St nr Wansey Rd
+10 Travel Reward 3.50 2.75 -0.75
+1350 Mon
+20/02/17
+07:55 Allawah to Arncliffe 1 3.38 0.00 -3.38
+1352 Tue
+21/02/17
+09:01 Allawah to Central 2 Off-peak 4.20 1.26 -2.94
+1354 Tue
+21/02/17
+09:47 Central Station Stand D to
+High St nr Wansey Rd
+2 3.50 2.00 -1.50
+1356 Tue
+21/02/17
+17:38 UNSW Gate 3 High St to
+UNSW Gate 3 High St
+3 2.10 0.00 -2.10
+1358 Tue
+21/02/17
+17:59 Central to Hurstville 3 4.20 2.00 -2.20
+1360 Wed
+22/02/17
+07:59 Allawah to Arncliffe 4 3.38 0.00 -3.38
+1362 Thu
+23/02/17
+08:11 Allawah to Central 5 4.20 0.00 -4.20
+1364 Thu
+23/02/17
+08:45 Central Station Stand D to
+High St nr Wansey Rd
+5 3.50 2.00 -1.50
+1366 Thu
+23/02/17
+18:14 Unknown to Central Station
+Stand A
+6 3.50 0.00 -3.50
+1368 Thu
+23/02/17
+18:31 Central to Hurstville 6 Off-peak 4.20 3.26 -0.94
+1370 Thu
+23/02/17
+18:56 Hurstville to Allawah 6 Off-peak 0.00 0.00 0.00
+1372 Fri
+24/02/17
+08:11 Allawah to Arncliffe 7 3.38 0.00 -3.38
+1374 Sat
+25/02/17
+12:37 Allawah to Central 8 Off-peak 4.20 1.26 -2.94
+1375 Sat
+25/02/17
+13:04 Auto top up - Central 40.00
+1377 Sat
+25/02/17
+13:17 Central Station Stand C to
+Belmore Rd opp Silver St
+8 3.50 2.00 -1.50
+1379 Sat
+25/02/17
+16:37 Belmore Rd nr Arthur St to
+Museum Station Stand D
+9 Travel Reward 3.50 1.75 -1.75
+1381 Sat
+25/02/17
+18:03 Town Hall to Allawah 10 Travel Reward 4.20 2.73 -1.47
+1383 Mon
+27/02/17
+08:20 Allawah to Central 1 4.20 0.00 -4.20
+1385 Mon
+27/02/17
+09:00 Central Station Stand D to
+High St nr Gate 2 UNSW
+1 3.50 2.00 -1.50
+1387 Mon
+27/02/17
+19:08 Grdeners Rd nr Gnrl
+Brdg to Dunning Av nr
+Gardeners
+2 2.10 0.00 -2.10
+1389 Mon
+27/02/17
+21:42 Mascot to Hurstville 3 Off-peak 4.20 1.26 -2.94
+1391 Mon
+27/02/17
+22:15 Hurstville to Allawah 3 Off-peak 0.00 0.00 0.00
+1393 Tue
+28/02/17
+09:02 Allawah to Central 4 Off-peak 4.20 1.26 -2.94
+1395 Tue
+28/02/17
+09:40 Central Station Stand D to
+High St nr Wansey Rd
+4 3.50 2.00 -1.50
+1397 Tue
+28/02/17
+18:05 High St nr Gate 9 UNSW to
+Central Station Stand A
+5 3.50 0.00 -3.50
+1399 Tue
+28/02/17
+18:32 Central to Wynyard 5 Off-peak 3.38 3.02 -0.36
+1401 Tue
+28/02/17
+21:38 Martin Place to Allawah 6 Off-peak 4.20 1.26 -2.94

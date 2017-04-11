@@ -14,6 +14,7 @@ class DaySummarizer(namedtuple("DaySummarizer", ["day", "date", "amount"])):
 if __name__ == '__main__':
     state = STATE_DAY
     currentDate = None    
+    previousDay = None
     currentDay = None
     currentTotal = 0
     
@@ -24,11 +25,12 @@ if __name__ == '__main__':
             if state == STATE_DAY and len(items) == 2:
                 if items[1] in days:
                     state = STATE_DATE
-                    currentDay = items[1]
+                    previousDay = currentDay
+                    currentDay = items[1]                                        
             elif state == STATE_DATE and len(items) == 1:
                 if currentDate != items: #new date!
                     if currentDate is not None:
-                        summarizer = DaySummarizer(currentDay,currentDate[0],currentTotal)
+                        summarizer = DaySummarizer(previousDay,currentDate[0],currentTotal)
                         mySummarizers.append(summarizer)
                     currentDate = items                    
                     currentTotal = 0.0

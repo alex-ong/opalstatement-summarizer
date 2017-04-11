@@ -18,7 +18,8 @@ if __name__ == '__main__':
             elif state == STATE_DATE and len(items) == 1:
                 if currentDate != items:
                     if currentDate is not None:
-                        print (currentDate[0], round(currentTotal,2))
+                        print (currentDate[0])
+                        print (round(currentTotal,2))
                     currentDate = items                    
                     currentTotal = 0.0
                 state = STATE_MONEY
